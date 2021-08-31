@@ -76,3 +76,5 @@ We want to answer the questions "Can Kernza® intermediate wheatgrass be a profi
 "What can soil health and water use research tell us about how Kernza can be resiliant under climate change?" 
 
 {{< icon name="download" pack="fas" >}} Download the funded {{< staticref "wsare_proposal_2021_funded.pdf" "newtab" >}}project grant proposal{{< /staticref >}}.
+
+Check out what we're up to on Instagram [@kernzawyoming](https://www.instagram.com/kernzawyoming/)
