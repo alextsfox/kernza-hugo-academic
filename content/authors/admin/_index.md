@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Jay Norton
+title:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PI
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Unversity of Wyoming
+- name:
   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: The Kernza Wyoming Project is supported by Western SARE and run by the University of Wyoming
 
 # Interests to show in About widget
 interests:
@@ -70,8 +70,9 @@ email: "afox18@uwyo.edu"
 highlight_name: false
 ---
 
-The Wyoming Kernza Project seeks to investigate the role that perennial grains could serve in revitalizing Wyoming wheat agriculture. This reseaarch effort is funded by Western SARE, and run by Jay Norton at the University of Wyoming
+The Wyoming Kernza Project investigates how perennial grains could revitalize Wyoming wheat agriculture. This research effort is funded by Western SARE, and run by Jay Norton, Hannah Rodgers, and Alex Fox at the University of Wyoming.
 
-We are investigating the role that Kernza Intermediate Wheatgrass can play in improving soil health and nutrient and water useage as an economically viable crop in Eastern Wyoming dryland wheat agriculture. The experiment is currently set to run from Spring 2021 through Spring 2024.
+We want to answer the questions "Can Kernza® intermediate wheatgrass be a profitable and sustainable grain crop in eastern Wyoming?" and 
+"What can soil health and water use research tell us about how Kernza can be resiliant under climate change?" 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download the funded {{< staticref "wsare_proposal_2021_funded.pdf" "newtab" >}}project grant proposal{{< /staticref >}}.
