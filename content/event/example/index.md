@@ -4,7 +4,7 @@ title: Great Plans Soil Fertility Conference
 event: Great Plains Soil Fertility
 event_url: https://greatplainssoilfertility.org/
 
-location: Wowchemy HQ
+location: Great Plains Soil Fertility Conference  
 address:
   # street: 450 Serra Mall
   city: Denver
@@ -13,13 +13,15 @@ address:
   # country: United States
 
 summary: "Kernza in Wyoming: Evaluating Perennial Grains to Revitalize Wyoming Wheat Agriculture"
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Kernza, a perennial grain crop harvested from intermediate wheatgrass, has the potential to provide a sustainable alternative to wheat-fallow agriculture that can build soil health. Kernza had not yet been planted in Wyoming, where the drier climate presents unique challenges yet stands to particularly benefit from the adoption of a perennial crop. From spring 2021-2024, Kernza will be grown on five farms across southeast Wyoming under a variety of management strategies. We aim to determine Kernza’s agroecological viability in this climate, and to evaluate effects on soil fertility, carbon sequestration, and microbial activity. To answer these questions, we are comparing yield and soil health indicators in Kernza to both wheat-fallow and Conservation Reserve Program fields. Soil health indicators include nutrients, labile carbon pools, enzyme activities, and PLFAs. So far, we have found differences in nutrients and enzyme activities between soils in wheat-fallow and Conservation Reserve Program land, which consists of uncultivated intermediate wheatgrass and other perennials.
+
+Though the project is only in its first year, we expect to find results similar to previous research, which show that Kernza’s deep perennial roots sequesters carbon and curtails soil erosion. Kernza has been shown to support a microbial community more similar to soils of native prairie than to those of annual wheat, contributing to soil aggregation, enhanced microbial carbon stabilization, and tight nutrient cycling. We also hope to find soil microbial properties that correlate with improving soil health in this ecosystem, such as fungi:bacteria ratio, enzyme activities, or microbial biomass. We predict that despite lower yields, higher market prices and soil health benefits will make Kernza a viable option for High Plains wheat farmers. Overall, Kernza holds promise for agricultural production in sensitive areas, and can contribute to an agricultural system resilient in the face of climate change."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: "2030-06-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
-# all_day: false
+date: "2021-08-08T13:00:00Z"
+date_end: "2021-08-09T15:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
