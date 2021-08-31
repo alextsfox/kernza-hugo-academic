@@ -1,6 +1,6 @@
 ---
 # Display name
-title:
+title: Kernza in Wyoming - Evaluating Perennial Grains to Revitalize Wyoming Wheat Agriculture
 
 # Is this the primary user of the site?
 superuser: true
@@ -77,4 +77,4 @@ We want to answer the questions "Can Kernza® intermediate wheatgrass be a profi
 
 {{< icon name="download" pack="fas" >}} Download the funded {{< staticref "wsare_proposal_2021_funded.pdf" "newtab" >}}project grant proposal{{< /staticref >}}.
 
-Check out what we're up to on Instagram [@kernzawyoming](https://www.instagram.com/kernzawyoming/)
+{{< icon name="instagram" pack="fab" >}}Check out what we're up to on Instagram [@kernzawyoming](https://www.instagram.com/kernzawyoming/)
