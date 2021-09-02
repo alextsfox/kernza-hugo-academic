@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: "Kernza in Wyoming: Evaluating Perennial Grains to Revitalize Wyoming Wheat Agriculture"
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
