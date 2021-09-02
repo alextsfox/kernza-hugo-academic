@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: "Kernza in Wyoming: Evaluating Perennial Grains to Revitalize Wyoming Wheat Agriculture"
-abstract: "
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -68,4 +68,4 @@ correlate with improving soil health in this ecosystem, such as fungi:bacteria r
 activities, or microbial biomass. We predict that despite lower yields, higher market prices and 
 soil health benefits will make Kernza a viable option for High Plains wheat farmers. Overall, 
 Kernza holds promise for agricultural production in sensitive areas, and can contribute to an 
-agricultural system resilient in the face of climate change."
+agricultural system resilient in the face of climate change.

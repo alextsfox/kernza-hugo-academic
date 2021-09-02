@@ -38,7 +38,7 @@ tags: []
 
 # Display this page in the Featured widget?
 featured: true
-draft: true
+# draft: true
 
 # Custom links (uncomment lines below)
 # links:
