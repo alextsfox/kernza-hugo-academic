@@ -17,10 +17,10 @@ organizations:
 bio: The Kernza Wyoming Project is supported by Western SARE and run by the University of Wyoming
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
 # Education to show in About widget
 # education:
