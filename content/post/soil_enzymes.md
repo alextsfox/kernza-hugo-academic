@@ -40,6 +40,8 @@ categories:
 - Updates
 ---
 
+![](!enzyme_plates.jpg)
+
 So many soil enzymes to test! Part of this project is figuring out what soil properties can best indicate 
 how soil health changes when we convert annual cropping systems to perennials. Each stack here is testing 1 
 of 12 different soil enzymes to see what they can tell us about the soil microbial community. 
