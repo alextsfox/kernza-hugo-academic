@@ -5,9 +5,8 @@ summary:
 authors:
 - admin
 - Hannah Rodgers
-tags: 
-- Soil
-- Labwork
+projects: 
+- Soil Studies
 categories: []
 projects: []
 date: "2021-09-02T00:00:00Z"
