@@ -1,10 +1,9 @@
 ---
 title: Wyoming Kernza in the News!
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+subtitle: 
+summary: 
 authors:
 - admin
-- Alex Fox
 tags: 
 -News
 categories: []
