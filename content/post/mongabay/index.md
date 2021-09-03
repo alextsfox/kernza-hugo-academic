@@ -14,4 +14,6 @@ lastMod: "2021-09-02T00:00:00Z"
 #   focal_point: ""
 ---
 
-Why does this keep breaking what's wrong
+Our project recently appeared in the news! Check out the article by Mongabay 
+[here](https://news.mongabay.com/2021/08/scientists-look-to-wheatgrass-to-save-dryland-farming-and-capture-carbon/).
+It provides some good background on the history and goals of Kernza.
