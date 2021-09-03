@@ -4,6 +4,7 @@ subtitle:
 summary: 
 authors:
 - admin
+- Sarah Derouin
 tags: []
 categories: []
 projects: []
@@ -14,6 +15,8 @@ lastMod: "2021-09-02T00:00:00Z"
 #   focal_point: ""
 ---
 
-Our project recently appeared in the news! Check out the article by Mongabay 
-[here](https://news.mongabay.com/2021/08/scientists-look-to-wheatgrass-to-save-dryland-farming-and-capture-carbon/).
-It provides some good background on the history and goals of Kernza.
+Thanks to Sarah Derouin for writing this article about our project! We have now done 4 interviews about Kernza 
+in Wyoming, and it’s honestly thrilling to have so much interest in our little graduate research project. 
+We’re feeling grateful to the journalists who share our story, to everyone driving this huge interest in 
+perennial grains, and of course to the farmers (who are the real researchers here). 
+[See the article at here.](https://news.mongabay.com/2021/08/scientists-look-to-wheatgrass-to-save-dryland-farming-and-capture-carbon/).
