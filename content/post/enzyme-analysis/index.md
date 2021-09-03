@@ -7,6 +7,8 @@ authors:
 - Hannah Rodgers
 projects: 
 - Soil Studies
+tags:
+- Lab Work
 categories: []
 projects: []
 date: "2021-09-02T00:00:00Z"
