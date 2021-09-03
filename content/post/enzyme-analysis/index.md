@@ -1,5 +1,5 @@
 ---
-title: Testing for Soil Enzymes!
+title: Testing for Soil Enzymes
 subtitle: 
 summary: 
 authors:
