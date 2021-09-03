@@ -6,8 +6,8 @@ authors:
 - admin
 - Hannah Rodgers
 tags: 
--Soil
--Labwork
+- Soil
+- Labwork
 categories: []
 projects: []
 date: "2021-09-02T00:00:00Z"
