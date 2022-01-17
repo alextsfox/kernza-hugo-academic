@@ -12,7 +12,6 @@ lastMod: "2021-09-02T00:00:00Z"
 # image:
 #   caption: "Image credit: Sheila Walsh"
 #   focal_point: ""
-slides: example
 ---
 
 Thanks to Sarah Derouin for writing this article about our project! We have now done 4 interviews about Kernza 
