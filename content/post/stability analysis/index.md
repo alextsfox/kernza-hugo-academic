@@ -24,3 +24,5 @@ us measure “Soil Aggregate Stability.” Healthier soils
 tend to aggregate more, which prevents them from eroding 
 away in a big rain or windstorm, and provides great habitat 
 for soil life
+
+![](aggstability1.png)
