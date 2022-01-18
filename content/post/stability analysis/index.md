@@ -13,13 +13,6 @@ categories: []
 projects: []
 date: "2021-09-24T00:00:00Z"
 lastMod: "2021-09-24T00:00:00Z"
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: aggstability
 ---
 
 Got to use this crazy contraption last week!
@@ -31,3 +24,10 @@ us measure “Soil Aggregate Stability.” Healthier soils
 tend to aggregate more, which prevents them from eroding 
 away in a big rain or windstorm, and provides great habitat 
 for soil life
+
+{{< instagram BWNjjyYFxVx hidecaption >}}
+
+
+test
+
+test
