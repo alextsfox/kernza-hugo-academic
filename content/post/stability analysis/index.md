@@ -15,7 +15,10 @@ date: "2021-09-24T00:00:00Z"
 lastMod: "2021-09-24T00:00:00Z"
 ---
 
+
 Got to use this crazy contraption last week!
+
+![Sieving](aggstability1.png)
 
 Most of the soil breaks apart and falls through the 
 sieves when it’s dunked in water, but stronger soil 
@@ -25,4 +28,4 @@ tend to aggregate more, which prevents them from eroding
 away in a big rain or windstorm, and provides great habitat 
 for soil life
 
-![](aggstability1.png)
+
