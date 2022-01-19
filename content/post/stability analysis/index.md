@@ -30,4 +30,7 @@ for soil life
 ![Sieving](./aggstability1.png)  |  ![Sieving](./aggstability2.png)
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Sieving](./aggstability1.png)  |  ![Sieving](./aggstability2.png)
 
