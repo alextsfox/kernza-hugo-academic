@@ -19,7 +19,6 @@ perennial grasses (like Kernza 🌾!) can energize soil formation
 and organic matter storage in these prairie soils
 
 ![Trays](./trays.png) 
-<img src="./trays.png" alt="milkshake" width="600"/>
  
               |   
 :-------------------------:|:-------------------------:
