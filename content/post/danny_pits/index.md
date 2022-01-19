@@ -5,6 +5,10 @@ summary:
 authors:
 - admin
 - Hannah Rodgers
+projects: 
+- Soil Studies
+tags:
+- Field Work
 categories: []
 projects: []
 date: "2021-11-17T00:00:00Z"

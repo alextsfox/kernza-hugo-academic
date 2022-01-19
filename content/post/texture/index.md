@@ -5,8 +5,11 @@ summary:
 authors:
 - admin
 - Hannah Rodgers
+projects: 
+- Soil Studies
+tags:
+- Lab Work
 categories: []
-projects: []
 date: "2021-12-31T00:00:00Z"
 lastMod: "2022-12-31T00:00:00Z"
 ---

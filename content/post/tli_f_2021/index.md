@@ -5,6 +5,11 @@ summary:
 authors:
 - admin
 - Hannah Rodgers
+projects: 
+- Soil Studies
+- Hydrology
+tags:
+- Travel
 categories: []
 projects: []
 date: "2021-11-17T00:00:00Z"

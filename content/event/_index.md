@@ -1,5 +1,5 @@
 ---
-title: News and Talks
+title: News, Talks, and Publications
 cms_exclude: true
 
 # View.
