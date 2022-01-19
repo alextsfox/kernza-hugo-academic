@@ -20,6 +20,6 @@ and organic matter storage in these prairie soils
 
 ![Trays](./trays.png) 
 
-                           | 
-:-------------------------:|:-------------------------:
+       Soil Pit      |  Digging the Soil Pit
+:-------------------:|:-------------------------:
 ![](./big_hole.png)  |  ![](./hannah_in_big_hole.png)

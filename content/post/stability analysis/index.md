@@ -25,8 +25,8 @@ tend to aggregate more, which prevents them from eroding
 away in a big rain or windstorm, and provides great habitat 
 for soil life
 
-                           | 
-:-------------------------:|:-------------------------:
+ Sieving Soils                   | Sieving Soils
+:-------------------------------:|:-------------------------:
 ![Sieving](./aggstability1.png)  |  ![Sieving](./aggstability2.png)
 
 

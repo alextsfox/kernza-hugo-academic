@@ -21,4 +21,4 @@ driver of microbial activity, so if we want to understand how
 soil microbes indicate changing soil health, we also need to 
 know the soil’s texture!
 
-<img src="./milkshake.png" alt="milkshake" width="200"/>
+<img src="./milkshake.png" alt="milkshake" width="400"/>
