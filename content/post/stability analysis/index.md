@@ -15,10 +15,9 @@ date: "2021-09-24T00:00:00Z"
 lastMod: "2021-09-24T00:00:00Z"
 ---
 
+![Sieving](./aggstability1.png) ![Sieving](./aggstability1.png)
 
 Got to use this crazy contraption last week!
-
-![Sieving](./aggstability1.png)
 
 Most of the soil breaks apart and falls through the 
 sieves when it’s dunked in water, but stronger soil 
