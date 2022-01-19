@@ -15,7 +15,8 @@ date: "2021-09-24T00:00:00Z"
 lastMod: "2021-09-24T00:00:00Z"
 ---
 
-![Sieving](./aggstability1.png) ![Sieving](./aggstability1.png)
+![Sieving](./aggstability1.png) 
+![Sieving](./aggstability2.png)
 
 Got to use this crazy contraption last week!
 
