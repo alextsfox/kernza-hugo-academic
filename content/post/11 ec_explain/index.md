@@ -25,4 +25,6 @@ What is eddy covariance? Here’s Alex describing how Eddy Covariance systems ca
 
 {{< youtube FYYg01J-MdM >}}
 
+{{< youtube jF2fX_CSdYs >}}
+
 Some notes: this doesn’t actually measure the total water budget if an ecosystem, just the gaseous component. Also, the net carbon assimilated by an ecosystem in a given year isn’t necessarily permanently sequestered.

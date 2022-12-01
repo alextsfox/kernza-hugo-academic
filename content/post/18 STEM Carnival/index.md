@@ -19,6 +19,6 @@ lastMod: "2022-10-11T00:00:00Z"
 ---
 Welcome to the UWyo STEM Carnival! We taught lots of kids about dirt and leaves😁
 
-{{< youtu.be/Dd4Ndw37R5I >}}
+{{< youtube Dd4Ndw37R5I >}}
 
-{{< youtu.be/TK4TPVrxFhg >}}
+{{< youtube TK4TPVrxFhg >}}
