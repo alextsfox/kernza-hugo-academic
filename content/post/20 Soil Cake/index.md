@@ -26,7 +26,7 @@ Update: Yes it’s a mollisol, thanks for the guesses!
 Mollisols are prairie soils, and ones formed in semiarid places often have a calcium carbonate build-up just below the root zone, 
 which is the whitish powdered-sugar layer at the bottom😁
 
-[Learn more about World Soil Day](https://www.un.org/en/observances/world-soil-day)
+[Learn more about World Soil Day](un.org/en/observances/world-soil-day)
 
 
               |   
