@@ -22,4 +22,4 @@ and CRP (perennial grassland) fields.
 
               |   
 :-------------------------:|:-------------------------:
-![](./spit.png)  |  ![](./graph.png)
+![](./spit.gif)  |  ![](./graph.png)
