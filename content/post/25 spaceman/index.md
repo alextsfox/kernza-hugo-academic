@@ -1,5 +1,5 @@
 ---
-title: Soil Cake (Happy Thanksgiving!)
+title: Kernza in Space?
 subtitle: 
 summary: 
 authors:

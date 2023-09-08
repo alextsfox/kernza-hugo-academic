@@ -1,5 +1,5 @@
 ---
-title: Soil Cake (Happy Thanksgiving!)
+title: Soil Science Workshop at Biloba Organic
 subtitle: 
 summary: 
 authors:
